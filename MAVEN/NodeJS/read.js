@@ -1,3 +1,4 @@
+const { Console } = require("console");
 const fs=require("fs");
 
 //unicode transformation format
@@ -13,11 +14,14 @@ function readUTFBFile(filepath){
     });
 }
 
+
+
 //Non existing file
-readUTFBFile("./abcd.txt");
+readUTFBFile("abcd.txt");
 
 //existing file
-readUTFBFile("./static/file/testFile.txt");
+// readUTFBFile("./static/file/testFile.txt");
+readUTFBFile("demofile.txt");
 
 //file with difference encoding. will read with missing characters
 readUTFBFile("./static/files/testFileDifferentEncoding.txt");

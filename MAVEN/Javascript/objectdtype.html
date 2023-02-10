@@ -2,7 +2,18 @@
     <body>
         <p id="demo"></p>
         <script>
-            const car={type:"fiat",model:"400",color:"red"};   //combined data type :- an object
+            "use strict";  //properties of objects and suntaxes
+            temp=true;   //undefined
+            var temp1=20;  //defined
+            var temp2=true;
+            if(temp === temp2)
+            console.log("x");
+            else if(temp == temp2)
+            console.log("true");
+            else if(temp == null)
+            console.log("false");
+
+            const car={type:"Big",model:"400",color:"red"};   //combined data type :- an object
             document.getElementById("demo").innerHTML=car.type;
         </script>
     </body>
