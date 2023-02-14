@@ -1,0 +1,17 @@
+<html>
+    <head>
+        <title>Hoisting</title>
+        <body>
+            <p id="demo"></p>
+            <script>
+                a=10;  //initializing
+                b=20;
+                c=a+b;
+                document.getElementById("demo").innerHTML="the sum is "+ c;
+                var a;   //declaration
+                var b;
+                var c;
+            </script>
+        </body>
+    </head>
+</html>
