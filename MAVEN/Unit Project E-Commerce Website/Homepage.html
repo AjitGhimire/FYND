@@ -1,0 +1,487 @@
+<html>
+<head>
+  <title>E-Commerce Site</title>
+<style>
+html,body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, Sans-serif;
+    background-color:rgb(255, 0, 21);
+  }
+
+
+  /* CSS for nav*/
+.topnav {
+  position: relative;
+  overflow: hidden;
+  background-color: #333;
+}
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.logo{
+    float: left;
+}
+.attributes{
+    float: right;
+  }
+  /* CSS for nav*/
+
+
+
+@media screen and (max-width: 600px) {
+  .topnav a, .attributes, .logo {
+    float: none; 
+    display: block;
+  }
+}
+
+
+.name{
+    text-align: center;
+    color:blue;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+
+/* CSS for images */
+section{
+    background-color: rgb(28, 89, 230);
+    padding: 10px;
+}
+.images{
+    background-color: greenyellow;
+    padding: 10px;
+}
+.images img{
+margin:5px 5px 5px 5px;
+padding:5px;
+height:210px;
+width: 245px;
+background-color:rgb(0, 208, 255);
+}
+/* CSS for images */
+
+
+
+/* CSS for table */
+.chat{
+  margin-left:50px;
+  margin-right:50px;
+}
+table{
+  background-color: rgb(68, 0, 255);
+  border-collapse: collapse;
+  width: 100%;
+  margin-bottom: 10px;
+}
+th{
+  border: 1px solid black;
+  text-align: left;
+  padding: 8px;
+  color:black;
+  background-color: yellow;
+}
+td{
+  border: 1px solid black;
+  text-align: left;
+  padding: 8px;
+  color:green;
+  background-color: violet;
+}
+.first{
+  color: red;
+}
+.one{
+  color: red;
+} 
+.imagetext td{
+    text-align: center;
+  }
+/* CSS for table */
+
+
+/* CSS for search */
+.search{
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 10px;
+  text-decoration: none;
+  font-size: 10px;
+}
+.last{
+  margin-right: 20px;
+}
+/* CSS for search */
+
+
+/* css for middle name */
+address{
+  padding: 10px;
+}
+/* css for middle name */
+
+
+  /* FOOTER  */
+  .footer {
+    width: 100%;
+    position: relative;
+    height: auto;
+    background-color:rgb(28, 28, 26);
+  }
+  .footer .col {
+    width: 190px;
+    height: auto;
+    float: left;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    padding: 0px 20px 20px 20px;
+  }
+  .footer .col h1 {
+    margin: 0;
+    padding: 0;
+    font-family: inherit;
+    font-size: 12px;
+    line-height: 17px;
+    padding: 20px 0px 5px 0px;
+    color: rgb(255, 64, 0);
+    font-weight: normal;
+    text-transform: uppercase;
+    letter-spacing: 0.250em;
+  }
+  .footer .col ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    color:blue;
+   
+  }
+  .footer .col ul li a{
+    color: #00eeff;
+    font-size: 14px;
+    font-family: inherit;
+    font-weight: bold;
+    padding: 5px 0px 5px 0px;
+    text-decoration: none;
+  }
+  .social ul li {
+    display: inline-block;
+    padding-right: 5px;
+   
+  }
+  .clearfix {
+    clear: both;
+  }
+  footer{
+    background-color: #cfd2d2;
+  }
+ 
+
+</style>
+
+</head>
+
+<body>
+
+<div class="topnav">
+
+    <div class="logo">
+        <a href="#news">E-Commerce</a>
+    </div>
+    <div class="attributes">
+        <a href="#profile">Home</a>
+        <a href="#products">Products</a>
+        <a href="#schedule">Blog</a>
+        <a href="#last">About</a>
+        <a href="#about">Profile</a>
+        <div class="search">
+          <input type="text" placeholder="Search.." name="search">
+          <button type="submit">Submit</button>
+        </div>
+      </div>
+</div>
+
+<div>
+    <p><h1 class="name">Available Products</h1></p>
+</div>
+
+<section>
+<div class="images" id="products">
+    <h3>Electronics Section</h3>
+
+    <table class="imagetext">
+      <tr>
+        <th> <img src="1.jpg"  usemap="#test1"></th>
+        <th> <img src="2.jpg"  usemap="#test2"></th>
+        <th> <img src="3.jpg"  usemap="#test3"></th>
+        <th> <img src="4.jpg"  usemap="#test4"></th>
+        <th> <img src="5.jpg"  usemap="#test5"></th>  
+      </tr>
+
+      <tr>
+        <td>Image 1</td>
+        <td>Image 2</td>
+        <td>Image 3</td>
+        <td>Image 4</td>
+        <td>Image 5</td>
+      </tr>
+
+      <map name="test1">
+        <area shape="rect" coords="34,44,270,350" href="#">
+        </area>
+        </map>
+    
+        <map name="test2">
+          <area shape="rect" coords="34,44,270,350" href="#">
+          </area>
+          </map>
+    
+          <map name="test3">
+            <area shape="rect" coords="34,44,270,350" href="#">
+            </area>
+            </map>
+    
+            <map name="test4">
+              <area shape="rect" coords="34,44,270,350" href="#">
+              </area>
+              </map>
+            
+              <map name="test5">
+                <area shape="rect" coords="34,44,270,350" href="#">
+                </area>
+                </map>
+                </table>
+
+
+                <table class="imagetext">
+                  <h3>Products Section</h3>
+                  <tr>
+                    <th> <img src="6.jpg"  usemap="#test6"></th>
+                    <th> <img src="7.jpg"  usemap="#test7"></th>
+                    <th> <img src="8.jpg"  usemap="#test8"></th>
+                    <th> <img src="9.jpg"  usemap="#test9"></th>
+                    <th> <img src="10.jpg"  usemap="#test10"></th>  
+                  </tr>
+            
+                  <tr>    
+                    <td>Image 6</td>
+                    <td>Image 7</td>
+                    <td>Image 8</td>
+                    <td>Image 9</td>
+                    <td>Image 10</td>
+                  </tr>
+            
+                  <map name="test6">
+                    <area shape="rect" coords="34,44,270,350" href="#">
+                    </area>
+                    </map>
+                
+                    <map name="test7">
+                      <area shape="rect" coords="34,44,270,350" href="#">
+                      </area>
+                      </map>
+                
+                      <map name="test8">
+                        <area shape="rect" coords="34,44,270,350" href="#">
+                        </area>
+                        </map>
+                
+                        <map name="test9">
+                          <area shape="rect" coords="34,44,270,350" href="#">
+                          </area>
+                          </map>
+                        
+                          <map name="test10">
+                            <area shape="rect" coords="34,44,270,350" href="#">
+                            </area>
+                            </map>
+                </table>
+    
+            
+                <table class="imagetext">
+                  <h3>Clothes Section</h3>
+                  <tr>
+                    <th> <img src="11.jpg"  usemap="#test11"></th>
+                    <th> <img src="12.jpg"  usemap="#test12"></th>
+                    <th> <img src="13.jpg"  usemap="#test13"></th>
+                    <th> <img src="14.jpg"  usemap="#test14"></th>
+                    <th> <img src="15.jpg"  usemap="#test15"></th>  
+                  </tr>
+            
+                  <tr>
+                    <td>Image 11</td>
+                    <td>Image 12</td>
+                    <td>Image 13</td>
+                    <td>Image 14</td>
+                    <td>Image 15</td>
+                  </tr>
+                  <map name="test11">
+                    <area shape="rect" coords="34,44,270,350" href="#">
+                    </area>
+                    </map>
+                
+                    <map name="test12">
+                      <area shape="rect" coords="34,44,270,350" href="#">
+                      </area>
+                      </map>
+                
+                      <map name="test13">
+                        <area shape="rect" coords="34,44,270,350" href="#">
+                        </area>
+                        </map>
+                
+                        <map name="test14">
+                          <area shape="rect" coords="34,44,270,350" href="#">
+                          </area>
+                          </map>
+                        
+                          <map name="test15">
+                            <area shape="rect" coords="34,44,270,350" href="#">
+                            </area>
+                            </map>
+    </table>
+    </section>
+
+<div class="chat" id="schedule">
+  <p><h1 class="name">Calender</h1></p>
+  <table>
+    <tr>
+        <th class="first">Sun</th>
+        <th>Mon</th>
+        <th>Tue</th>
+        <th>Wed</th>
+        <th>Thr</th>
+        <th>Fri</th>
+        <th>Sat</th>
+    </tr>
+
+    <tr>
+      <td class="one">1</td>
+      <td>2</td>
+      <td>3</td>
+      <td>4</td>
+      <td>5</td>
+      <td>6</td>
+      <td>7</td>
+    </tr>
+    <tr>
+      <td class="one">8</td>
+      <td>9</td>
+      <td>10</td>
+      <td>11</td>
+      <td>12</td>
+      <td>13</td>
+      <td>14</td>
+    </tr>
+    <tr>
+      <td class="one">15</td>
+      <td>16</td>
+      <td>17</td>
+      <td>18</td>
+      <td>19</td>
+      <td>20</td>
+      <td>21</td>
+    </tr>
+    <tr>
+      <td class="one">22</td>
+      <td>23</td>
+      <td>24</td>
+      <td>25</td>
+      <td>26</td>
+      <td>27</td>
+      <td>28</td>
+    </tr>
+    <tr>
+      <td class="one">29</td>
+      <td>30</td>
+    </tr>
+  </table>
+</div>
+
+  <div class="footer">
+    <div class="contain">
+        <div class="col">
+            <h1>Quick Links</h1>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Services</a></li>
+                <li><a href="#">Awards</a></li>
+                <li><a href="#">Products</a></li>
+                <li><a href="#">Testomonies</a></li>
+            </ul>
+        </div>
+        <div class="col">
+            <h1>Useful Links</h1>
+            <ul>
+              <li><a href="#">Main Office</a></li>
+              <li><a href="#">Sub Offices</a></li>
+              <li><a href="#">Workers</a></li>
+              <li><a href="#">History</a></li>
+              <li><a href="#">Achievements</a></li>
+            </ul>
+        </div>
+        <div class="col">
+            <h1>About</h1>
+            <ul>
+              <li><a href="#">Company</a></li>
+              <li><a href="#">Shares</a></li>
+              <li><a href="#">Foundation</a></li>
+              <li><a href="#">TurnOver</a></li>
+              <li><a href="#">Reviews</a></li>
+            </ul>
+        </div>
+        <div class="col">
+            <h1>Services</h1>
+            <ul>
+              <li><a href="#">Home Delivery</a></li>
+              <li><a href="#">Cash On Delivery</a></li>
+              <li><a href="#">Bank</a></li>
+              <li><a href="#">Visa Card</a></li>
+              <li><a href="#">Pone Pay</a></li>
+            </ul>
+        </div>
+        <div class="col">
+            <h1>Support</h1>
+            <ul>
+              <li><a href="#">Contact us</a></li>
+                <li><a href="#">Send Email</a></li>
+                <li><a href="#">Buy a phone</a></li>
+               
+            </ul>
+        </div>
+        <div class="col social">
+            <h1>Social</h1>
+            <ul>
+             K.E. Society's <br> Rajarambapu Institute Of<br>Technology Rajaramnagar,<br> Islampur, Tal. Walwa Dist. Sangli,<br>Maharashtra, India - 415414.<br><br>
+                <li><img src="1.jpg" width="32" style="width: 32px;"></li>
+                <li><img src="2.jpg" width="32" style="width: 32px;"></li>
+                <li><img src="3.jpg" width="32" style="width: 32px;"></li>
+            </ul>
+        </div>
+        <div class="col social">
+          <h1>Location</h1>
+          <ul>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3555.251681066311!2d87.34166231498583!3d26.99058718309413!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39ef4fca1970a827%3A0x8ca09acf0773e264!2sDKT%20GHIMIRE%20TOLE!5e0!3m2!1sen!2sin!4v1676199815574!5m2!1sen!2sin" width="350" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+          </ul>
+      </div>
+        <div class="clearfix"></div>
+        <footer class="foot">
+          <address><B><center>
+           @AjItGhImIrE
+          </center>
+        </B>
+        </address>
+        </footer>
+    </div>
+</div>
+
+</body>
+</html>
