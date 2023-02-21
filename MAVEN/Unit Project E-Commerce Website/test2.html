@@ -1,0 +1,20 @@
+<html>
+    <head>
+        <title>Hoisting</title>
+    </head>
+    <body>
+      <h2>Hoisting</h2>
+        <p id="demo"></p>
+        <script>
+            x=5; //initialization
+            y=10;
+            z=x+y;
+            elem=document.getElementById("demo").innerHTML="sum is:-"+z;//find an element having id demo
+
+            var x; //declaration
+            var y;
+            var z;
+            
+        </script>
+    </body>
+</html>
