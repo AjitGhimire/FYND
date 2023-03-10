@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Node.js Example</title>
+  </head>
+  <body>
+    <h1 id="response">Waiting for response...</h1>
+
+    <script>
+    window.addEventListener('load', () => {
+      fetch('/')
+        .then(response => response.text())
+        .then(text => {
+          // Display the response in the browser
+          document.getElementById('response').textContent = text;
+        });
+    });
+    </script>
+  </body>
+</html>
