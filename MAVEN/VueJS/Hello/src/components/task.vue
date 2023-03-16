@@ -1,6 +1,6 @@
 <script setup>
 defineProps({
-    msg: {
+    first: {
         type: String,
         required: true,
     },
@@ -9,7 +9,7 @@ defineProps({
 
 <template>
 
-    <h1 class="task">{{ msg }}</h1>
+    <h1 class="task">{{ first }}</h1>
     <h3>
     Vue First Task
     </h3>
