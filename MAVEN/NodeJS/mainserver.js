@@ -12,9 +12,3 @@ http.createServer(function (req, res) {
     res.end();//ending the writing functionality for a request response function
 }).listen(8080);//mentioning which port our applicaion will run on the server
   
-// function hello(){
-//    console.log("Hello");
-// }
-// module.exports={
-//     hello,
-// };
