@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "Vivo Y100",
+        "description": "Vivo Y100 mobile was launched on 16th February 2023. The phone comes with a 90 Hz refresh rate 6.38-inch touchscreen display offering a resolution of 2400x1080 pixels (FHD+).",
+        "price": 1900.00,
+        "thumbnail": "https://i.gadgets360cdn.com/products/large/Vivo-Y100-DB-374x800-1676538869.jpg?downsize=*:180"
+    },
+    {
+        "id": 2,
+        "title": "Vivo Y22 (2022)",
+        "description": "Vivo Y22 (2022) mobile was launched on 12th September 2022. The phone comes with a 6.55-inch touchscreen display offering a resolution of 720x1612 pixels (HD+). ",
+        "price": 1500.00,
+        "thumbnail": "https://i.gadgets360cdn.com/products/large/vivo-y22-india-db-376x800-1662987402.jpg?downsize=*:180"
+    },
+    {
+        "id": 3,
+        "title": "Vivo V25 5G",
+        "description": "Vivo V25 5G mobile was launched on 15th September 2022. The phone comes with a 90 Hz refresh rate 6.44-inch touchscreen display offering a resolution of 1080x2404 pixels (FHD+).",
+        "price": 1000.00,
+        "thumbnail": "https://i.gadgets360cdn.com/products/large/vivo-V25-5g-DB-378x800-1663229788.jpg?downsize=*:180"
+    },
+    {
+        "id": 4,
+        "title": "Vivo Y15c",
+        "description": "Vivo Y15c mobile was launched in May 2022. The phone comes with a 60 Hz refresh rate 6.51-inch touchscreen display offering a resolution of 720x1600 pixels (HD+)",
+        "price": 1400.00,
+        "thumbnail": "https://i.gadgets360cdn.com/products/large/vivo-y15c-376x800-1652072336.jpg?downsize=*:180"
+    },
+    {
+        "id": 5,
+        "title": "Vivo X80",
+        "description": "The X80 and the X80 Pro (Review) are the latest additions to Vivo's camera-centric flagship X series. We have already reviewed the Vivo X80 Pro and today, we'll be focusing on the X80.",
+        "price": 1200.00,
+        "thumbnail": "https://i.gadgets360cdn.com/products/large/vivo-x80-370x800-1650893989.jpg?downsize=*:180"
+    },
+    {
+        "id": 6,
+        "title": "Vivo V23e 5G",
+        "description": "Vivo V23e 5G mobile was launched on 23rd November 2021. The phone comes with a 60 Hz refresh rate 6.44-inch touchscreen display offering a resolution of 1080x2400 pixels and an aspect ratio of 20:9.",
+        "price":2000.00,
+        "thumbnail": "https://rukminim1.flixcart.com/image/416/416/kzvlua80/mobile/l/f/p/-original-imagbs8hgkpxw9vb.jpeg?q=70"
+    }
+    ]

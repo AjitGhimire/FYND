@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+
+<title>Stripe payment demo</title>
+<body>
+    <form action="payment" method="POST">
+        <script
+        src="//checkout.stripe.com/v2/checkout.js"
+        class="stripe-button"
+        data-key="<%= key %>"
+        data-amount="7000"
+        data-currency="usd"
+        data-name="Ajit Ghimire"
+        data-description="First try"
+        data-location="auto">
+    </script>
+    </form>
+</body>
+</html>

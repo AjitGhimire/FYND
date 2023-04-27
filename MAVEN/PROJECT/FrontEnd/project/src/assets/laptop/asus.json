@@ -1,0 +1,51 @@
+[
+
+    {
+
+       "id":1,
+       "name":"Asus Zenbook 14 OLED",
+       "description":"Asus Laptop",
+       "price":900.00,
+       "image":"https://i.gadgets360cdn.com/products/small/asus-zenbook-14-db-240x180-1652352035.jpg?downsize=120:*"
+    },
+    {
+
+        "id":2,
+        "name":"Asus ProArt Studiobook",
+        "description":"Asus Laptop",
+        "price":800.00,
+        "image":"https://i.gadgets360cdn.com/products/small/asus-studiobook-pro-16-db-240x180-1661334628.jpg?downsize=120:*"
+     },
+     {
+
+        "id":3,
+        "name":"Asus Vivobook Pro 14 OLED",
+        "description":"Asus Laptop",
+        "price":700.00,
+        "image":"https://i.gadgets360cdn.com/products/small/asus-vivobook-pro-14-oled-240x180-1630649813.png?downsize=120:*"
+     },
+     {
+
+        "id":4,
+        "name":"Asus ZenBook 14 Flip OLED ",
+        "description":"Asus Laptop",
+        "price":600.00,
+        "image":"https://i.gadgets360cdn.com/products/small/asus-zenbook-14-oled-un5401-240x180-1647844415.jpg?downsize=120:*"
+     },
+     {
+
+        "id":5,
+        "name":"Asus Vivobook Pro 15 OLED",
+        "description":"Asus Laptop",
+        "price":500.00,
+        "image":"https://i.gadgets360cdn.com/products/small/Asus-Vivobook-Pro-15-DB-240x180-1630652792.jpg?downsize=120:*"
+     },
+     {
+
+        "id":6,
+        "name":"Asus Zenbook 17 Fold OLED",
+        "description":"Asus Laptop",
+        "price":400.00,
+        "image":"https://i.gadgets360cdn.com/products/small/asus-zenbook-17-fold-oled-ux9702-240x180-1641541885.jpg?downsize=120:*"
+     }
+]

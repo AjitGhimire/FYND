@@ -1,0 +1,51 @@
+[
+
+    {
+
+       "id":1,
+       "name":"Nike Air Max Alpha",
+       "description":"Finish your last rep with power and rack it with a roar that stuns the gym floor in the Nike Air Max Alpha Trainer 5. ",
+       "price":1000.00,
+       "image":"https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/a162ca4b-a442-4182-bfa0-4be07063e623/air-max-alpha-trainer-5-training-shoes-x8Jzj6.png"
+    },
+    {
+
+        "id":2,
+        "name":"Nike Pegasus 39",
+        "description":"Let the Nike Pegasus 39 help you ascend to new heights. More lightweight up top than the Pegasus 38 and ideal to wear in any season",
+        "price":2000.00,
+        "image":"https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/350da6ea-c22d-420b-8f0f-6f13bced759a/pegasus-39-road-running-shoes-kmZSD6.png"
+     },
+     {
+
+        "id":3,
+        "name":"Nike Air Huarache Premium",
+        "description":"The stretchy, foot-hugging fabric, lightweight cushioning and futuristic heel cage take you places",
+        "price":3000.00,
+        "image":"https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/597481c6-05ea-4b1a-86c2-ff798c592863/air-huarache-shoes-lCV2vJ.png"
+     },
+     {
+
+        "id":4,
+        "name":"Men White Nike Revolution Shoe",
+        "description":"Let the Nike Pegasus 39 help you ascend to new heights. More lightweight up top than the Pegasus 38 and ideal to wear in any season",
+        "price":4000.00,
+        "image":"https://5.imimg.com/data5/SELLER/Default/2021/7/IN/YL/CU/41344997/nike-revolution-shoe-500x500.jpeg"
+     },
+     {
+
+        "id":5,
+        "name":" Jordan Legacy 312 Low Black Metallic Gold",
+        "description":"Basketball",
+        "price":5000.00,
+        "image":"https://media.karousell.com/media/photos/products/2022/7/6/air_jordan_1_mid_yellow_toe_1657086529_c2bf0629_progressive.jpg"
+     },
+     {
+
+        "id":6,
+        "name":"Women's Basketball Shoes. Nike IN",
+        "description":"Nike",
+        "price":"11000",
+        "image":"https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/7c1e1d72-9343-4322-a7ec-5ca6c6592be0/air-deldon-deldon-designs-basketball-shoes-vZ0BsM.png"
+     }
+]

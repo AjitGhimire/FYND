@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "Oppo A78 5G",
+        "description": "Oppo A78 5G price in India starts from ₹ 18,999. The lowest price of Oppo A78 5G is ₹ 18,999 at Amazon on 13th April 2023.",
+        "price": 600.00,
+        "thumbnail": "https://i.gadgets360cdn.com/products/large/oppo-a78-5g-db-366x800-1673589087.jpg?downsize=*:180"
+    },
+    {
+        "id": 2,
+        "title": "Oppo F21s Pro",
+        "description": "Oppo F21s Pro mobile was launched on 15th September 2022. The phone comes with a 60 Hz refresh rate 6.43-inch touchscreen display offering a resolution of 1080x2400 pixels (FHD+)",
+        "price": 400.00,
+        "thumbnail": "https://i.gadgets360cdn.com/products/large/oppo-f21s-pro-5g-db-364x800-1663225927.jpg?downsize=*:180"
+    },
+    {
+        "id": 3,
+        "title": "Oppo A57e",
+        "description": "Oppo A57e price in India starts from ₹ 13,885. The lowest price of Oppo A57e is ₹ 13,885 at Flipkart on 13th April 2023.",
+        "price": 200.00,
+        "thumbnail": "https://i.gadgets360cdn.com/products/large/oppo-a57e-db-372x800-1662009322.jpg?downsize=*:180"
+    },
+    {
+        "id": 4,
+        "title": "Oppo Reno 8 Pro",
+        "description": "Oppo's Reno 8 Pro 5G is the company's most expensive Reno smartphone in India, yet ",
+        "price": 800.00,
+        "thumbnail": "https://i.gadgets360cdn.com/products/large/Oppo-reno-8-pro-DB-376x800-1653372161.jpg?downsize=*:180"
+    },
+    {
+        "id": 5,
+        "title": "Oppo K10 5G",
+        "description": "Oppo K10 5G mobile was launched on 24th April 2022. The phone comes with a 120 Hz refresh rate 6.59-inch touchscreen display offering a resolution of 1080x2412 pixels (FHD+) ",
+        "price": 1000.00,
+        "thumbnail": "https://i.gadgets360cdn.com/products/large/oppo-k10-DB-368x800-1650865223.jpg?downsize=*:180"
+    },
+    {
+        "id": 6,
+        "title": "Oppo A96",
+        "description": "Oppo A96 mobile was launched on 21st March 2022. The phone comes with a 90 Hz refresh rate 6.59-inch touchscreen display offering a resolution of 1080x2412 pixels (FHD+) ",
+        "price": 1200.00,
+        "thumbnail": "https://i.gadgets360cdn.com/products/large/oppo-a96-367x800-1647852223.jpg?downsize=*:180"
+    }
+    ]

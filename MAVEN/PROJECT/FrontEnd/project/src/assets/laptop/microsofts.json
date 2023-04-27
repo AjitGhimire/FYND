@@ -1,0 +1,51 @@
+[
+
+    {
+
+       "id":1,
+       "name":"Microsoft Surface Laptop 4 15-inch",
+       "description":"Microsoft Laptop",
+       "price":1500.00,
+       "image":"https://i.gadgets360cdn.com/products/large/lenovo-yoga-9i-gen-8-db-1362x800-1673933421.jpg?downsize=*:180"
+    },
+    {
+
+        "id":2,
+        "name":"Microsoft Surface Laptop 4",
+        "description":"Microsoft Laptop",
+        "price":1800.00,
+        "image":"https://i.gadgets360cdn.com/products/large/Surface-Laptop-4-13-DB-950x800-1618386129.jpg?downsize=*:180"
+     },
+     {
+
+        "id":3,
+        "name":"Microsoft Surface Laptop Go",
+        "description":"Microsoft Laptop",
+        "price":1300.00,
+        "image":"https://i.gadgets360cdn.com/products/large/Surface-Laptop-go-DB-932x800-1601706652.jpg?downsize=*:180"
+     },
+     {
+
+        "id":4,
+        "name":"Microsoft Surface Laptop 3",
+        "description":"Microsoft Laptop",
+        "price":1100.00,
+        "image":"https://i.gadgets360cdn.com/products/large/surface-laptop-3-1170x800-1570080832.jpg?downsize=*:180"
+     },
+     {
+
+        "id":5,
+        "name":"Microsoft Surface Pro DAJ-00021",
+        "description":"Microsoft Laptop",
+        "price":1000.00,
+        "image":"https://i.gadgets360cdn.com/products/laptops/large/1546455643_635_microsoft_surface-pro-daj-00021.jpg?downsize=*:180"
+     },
+     {
+
+        "id":6,
+        "name":"Microsoft Surface DAJ-00041",
+        "description":"Microsoft Laptop",
+        "price":4000.00,
+        "image":"https://i.gadgets360cdn.com/products/laptops/large/1546455688_635_microsoft_surface-dal-00037.jpg?downsize=*:180"
+     }
+]

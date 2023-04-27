@@ -1,0 +1,51 @@
+[
+
+    {
+
+       "id":1,
+       "name":"HP Envy x360 15 (2023)",
+       "description":"HP Laptop",
+       "price":1800.00,
+       "image":"https://i.gadgets360cdn.com/products/large/hp-envy-x360-15-2023-db-1216x800-1674220909.jpg?downsize=*:180"
+    },
+    {
+
+        "id":2,
+        "name":"HP Dragonfly Folio G3",
+        "description":"HP Laptop",
+        "price":2200.00,
+        "image":"https://i.gadgets360cdn.com/products/large/hp-dragonfly-folio-g3-launched-india-hp-db-1067x800-1661511693.jpg?downsize=*:180"
+     },
+     {
+
+        "id":3,
+        "name":"HP Omen 16 (2022)",
+        "description":"HP Laptop",
+        "price":1000.00,
+        "image":"https://i.gadgets360cdn.com/products/large/hp-omen-16-2022-970x800-1655989409.jpg?downsize=*:180"
+     },
+     {
+
+        "id":4,
+        "name":"HP Spectre x360 13.5 ef-0053tu",
+        "description":"HP Laptop",
+        "price":800.00,
+        "image":"https://i.gadgets360cdn.com/products/large/hp-spectre-x360-13-5-ef-0053tu-1267x800-1655187850.jpg?downsize=*:180"
+     },
+     {
+
+        "id":5,
+        "name":"HP Chromebook x360 14a",
+        "description":"HP Laptop",
+        "price":900.00,
+        "image":"https://i.gadgets360cdn.com/products/large/hp-chromebook-x360-14a-intel-982x800-1649745188.jpg?downsize=*:180"
+     },
+     {
+
+        "id":6,
+        "name":"HP Chromebook 11a",
+        "description":"HP Laptop",
+        "price":1000.00,
+        "image":"https://i.gadgets360cdn.com/products/large/hp-chromebook-11a-970x800-1617688539.jpg?downsize=*:180"
+     }
+]

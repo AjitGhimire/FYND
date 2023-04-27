@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "Redmi Note 11SE",
+        "description": "Redmi Note 11SE mobile was launched on 26th August 2022. The phone comes with a 6.43-inch touchscreen display offering a resolution of 1800x2400 pixels (FHD+)",
+        "price":900.00,
+        "thumbnail": "https://i.gadgets360cdn.com/products/large/redmi-note-11se-db-396x800-1661922832.jpg?downsize=*:180"
+    },
+    {
+        "id": 2,
+        "title": "Redmi 10A Sport",
+        "description": "Redmi 10A Sport mobile was launched on 27th July 2022. The phone comes with a 60 Hz refresh rate 6.53-inch touchscreen display offering a resolution of 720x1600 pixels (HD+)",
+        "price": 800.00,
+        "thumbnail": "https://i.gadgets360cdn.com/products/large/redmi-10A-sport-DB-379x800-1658983339.jpg?downsize=*:180"
+    },
+    {
+        "id": 3,
+        "title": "Redmi Note 11 Pro",
+        "description": "Redmi Note 11 Pro mobile was launched on 26th January 2022. The phone comes with a 120 Hz refresh rate 6.67-inch touchscreen display offering a resolution of 1080x2400 pixels ",
+        "price": 700.00,
+        "thumbnail": "https://i.gadgets360cdn.com/products/large/redmi-note-11-pro-global-373x800-1643265696.jpg?downsize=*:180"
+    },
+    {
+        "id": 4,
+        "title": "Redmi Note 11",
+        "description": "Redmi Note 11 mobile was launched on 26th January 2022. The phone comes with a 90 Hz refresh rate 6.43-inch touchscreen display offering a resolution of 1080x2400 pixels",
+        "price": 600.00,
+        "thumbnail": "https://i.gadgets360cdn.com/products/large/redmi-note-11-global-371x800-1643265148.jpg?downsize=*:180"
+    },
+    {
+        "id": 5,
+        "title": "Redmi Note 11S",
+        "description": "Xiaomi is back to doing what it does best, flooding the mainstream smartphone market with a tonne of options so no matter what your budget is, there's a Redmi phone for you.",
+        "price": 500.00,
+        "thumbnail": "https://i.gadgets360cdn.com/products/large/redmi-note-11s-370x800-1643262434.jpg?downsize=*:180"
+    },
+    {
+        "id": 6,
+        "title": "Redmi Note 10T",
+        "description": "Xiaomi's Redmi Note 10 lineup seemed quite straightforward when it launched in March this year.",
+        "price": 1000.00,
+        "thumbnail": "https://i.gadgets360cdn.com/products/large/redmi-note-10T-DB-377x800-1624859118.jpg?downsize=*:180"
+    }
+    ]
