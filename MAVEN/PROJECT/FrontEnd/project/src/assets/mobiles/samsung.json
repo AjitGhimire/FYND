@@ -1,0 +1,44 @@
+[
+{
+    "id": 1,
+    "title": "Samsung Galaxy S10 Plus",
+    "description": "Triple rear camera setup: 16MP with f2.2 aperture ultra wide + 12MP with f1.5 and f2.4 aperture wide + 12MP f2.4 tele| Dual front camera setup - 10MP f1.9 Main + 8MP f2.2 live focus",
+    "price": 2000.00,
+    "thumbnail": "https://m.media-amazon.com/images/I/617Vljzc9dL._SY741_.jpg"
+},
+{
+    "id": 2,
+    "title": "Samsung Galaxy M13 5G",
+    "description": "Samsung Galaxy M13 5G price in India starts from ₹ 10,989. The lowest price of Samsung Galaxy M13 5G is ₹ 10,989 at Flipkart on 13th April 2023.",
+    "price": 3000.00,
+    "thumbnail": "https://i.gadgets360cdn.com/products/large/M13-5g-db-372x800-1657783069.jpg?downsize=*:180"
+},
+{
+    "id": 3,
+    "title": "Samsung Galaxy Z Flip 3",
+    "description": "The Samsung Galaxy Z Flip 3 is priced way lower than the Galaxy Z Fold 3, but it's still an expensive phone and sits in proper flagship territory.",
+    "price": 4000.00,
+    "thumbnail": "https://i.gadgets360cdn.com/products/large/samsung-galaxy-z-flip-3-365x800-1628694409.jpg?downsize=*:180"
+},
+{
+    "id": 4,
+    "title": "Samsung Galaxy S21",
+    "description": "The Samsung Galaxy S21 is one of the futuristic flagship devices in the premium range segment. With its wide variety of powerful hardware configurations and sport vibrant display, the smartphone turns out to be a sales topper in its segment.  ",
+    "price": 5000.00,
+    "thumbnail": "https://www.91-img.com/pictures/138336-v5-samsung-galaxy-s21-mobile-phone-large-1.jpg"
+},
+{
+    "id": 5,
+    "title": "Samsung Galaxy A14 5G",
+    "description": "Samsung Galaxy A14 5G mobile was launched on 16th January 2023. The phone comes with a 90 Hz refresh rate 6.60-inch display offering a resolution of 1080x2408 pixels (FHD+).",
+    "price": 6000.00,
+    "thumbnail": "https://i.gadgets360cdn.com/products/large/My-project-1-377x800-1672901843.png?downsize=*:180"
+},
+{
+    "id": 6,
+    "title": "Samsung Galaxy A04s",
+    "description": "Samsung Galaxy A04s price in India starts from ₹ 12,999. The lowest price of Samsung Galaxy A04s is ₹ 12,999 at Croma on 13th April 2023.",
+    "price":7000.00,
+    "thumbnail": "https://i.gadgets360cdn.com/products/large/samsung-galaxy-a04s-db-371x800-1662013592.jpg?downsize=*:180"
+}
+]

@@ -1,0 +1,51 @@
+[
+
+    {
+
+       "id":1,
+       "name":"Lenovo Yoga 9i (Gen 8,Win 11)",
+       "description":"Lenovo Laptop",
+       "price":4900.00,
+       "image":"https://i.gadgets360cdn.com/products/large/lenovo-yoga-9i-gen-8-db-1362x800-1673933421.jpg?downsize=*:180"
+    },
+    {
+
+        "id":2,
+        "name":"Lenovo Legion Slim 7 (2022)",
+        "description":"Lenovo Laptop",
+        "price":5000.00,
+        "image":"https://i.gadgets360cdn.com/products/large/lenovo-legion-slim-7-2022-983x800-1646054313.jpg?downsize=*:180"
+     },
+     {
+
+        "id":3,
+        "name":"Lenovo V14 G2-ITL",
+        "description":"Lenovo Laptop",
+        "price":1000.00,
+        "image":"https://i.gadgets360cdn.com/products/large/lenovo-v14-g2-itl-db-1062x800-1642513528.jpg?downsize=*:180"
+     },
+     {
+
+        "id":4,
+        "name":"Lenovo IdeaPad Slim 5",
+        "description":"Lenovo Laptop",
+        "price":900.00,
+        "image":"https://i.gadgets360cdn.com/products/large/Lenovo-IdeaPad-Slim-5-82FG01BAIN-slim-DB-891x698-1635840117.jpg?downsize=*:180"
+     },
+     {
+
+        "id":5,
+        "name":"Lenovo IdeaPad 3i 11.6-inch Chromebook",
+        "description":"Lenovo Laptop",
+        "price":500.00,
+        "image":"https://i.gadgets360cdn.com/products/large/lenovo-ideapad-3i-chromebook-11.6inch-1423x800-1632986016.jpg?downsize=*:180"
+     },
+     {
+
+        "id":6,
+        "name":"Lenovo Yoga 6",
+        "description":"Lenovo Laptop",
+        "price":100.00,
+        "image":"https://i.gadgets360cdn.com/products/large/lenovo-yoga-6-db-1200x800-1614842818.jpg?downsize=*:180"
+     }
+]

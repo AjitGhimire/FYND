@@ -1,0 +1,51 @@
+[
+
+    {
+
+       "id":1,
+       "name":"Soccer Shoes",
+       "description":"Football Shoes",
+       "price":900.00,
+       "image":"https://images-na.ssl-images-amazon.com/images/I/61WLZEzNbfL.jpg"
+    },
+    {
+
+        "id":2,
+        "name":"Nivia men crane 2.0 FS",
+        "description":"Football Shoes",
+        "price":800.00,
+        "image":"https://m.media-amazon.com/images/I/71evBrg+7fL._SL1500_.jpg"
+     },
+     {
+
+        "id":3,
+        "name":"Adidas Mens x 22.3 FG",
+        "description":"Football Shoes",
+        "price":700.00,
+        "image":"https://m.media-amazon.com/images/I/61WLoCQztzL._UY500_.jpg"
+     },
+     {
+
+        "id":4,
+        "name":"Kipsta Agility 100 FG",
+        "description":"Football Shoes",
+        "price":600.00,
+        "image":"https://contents.mediadecathlon.com/p1204268/d67de33116182c4eb9e84f7d347c49df/p1204268.jpg"
+     },
+     {
+
+        "id":5,
+        "name":"RXN",
+        "description":"Football Shoes",
+        "price":500.00,
+        "image":"https://5.imimg.com/data5/SELLER/Default/2020/9/RH/XX/VF/28514375/new-football-shoes-1000x1000.jpeg"
+     },
+     {
+
+        "id":6,
+        "name":"Rapido III Men's Turf",
+        "description":"Puma",
+        "price":400.00,
+        "image":"https://cdn.shopify.com/s/files/1/2277/0487/products/873afdeee390916d3ad3e301bf6f319c.jpg?v=1639755858&width=1445"
+     }
+]

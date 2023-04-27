@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "iPhone 14 Plus",
+        "description": "Apple's annual iPhone reveal event is supposed to be one of the biggest moments in tech each year. At this year's show – the company's first in-person product launch since the beginning of the pandemic",
+        "price": 900.00,
+        "thumbnail": "https://i.gadgets360cdn.com/products/large/iphone-14-plus-db-396x800-1662581536.jpg?downsize=*:180"
+    },
+    {
+        "id": 2,
+        "title": "Nokia X30 5G",
+        "description": "Nokia X30 5G mobile was launched on 1st September 2022. The phone comes with a 90 Hz refresh rate 6.43-inch touchscreen display offering a resolution of 1800x2400 pixels (FHD+).",
+        "price": 800.00,
+        "thumbnail": "https://i.gadgets360cdn.com/products/large/nokia-x30-5g-db-374x800-1662044719.jpg?downsize=*:180"
+    },
+    {
+        "id": 3,
+        "title": "Oppo A78 5G",
+        "description": "Oppo A78 5G price in India starts from ₹ 18,999. The lowest price of Oppo A78 5G is ₹ 18,999 at Amazon on 13th April 2023.",
+        "price": 700.00,
+        "thumbnail": "https://i.gadgets360cdn.com/products/large/oppo-a78-5g-db-366x800-1673589087.jpg?downsize=*:180"
+    },
+    {
+        "id": 4,
+        "title": "Redmi Note 11SE",
+        "description": "Redmi Note 11SE mobile was launched on 26th August 2022. The phone comes with a 6.43-inch touchscreen display offering a resolution of 1800x2400 pixels (FHD+)",
+        "price": 600.00,
+        "thumbnail": "https://i.gadgets360cdn.com/products/large/redmi-note-11se-db-396x800-1661922832.jpg?downsize=*:180"
+    },
+    {
+        "id": 5,
+        "title": "Samsung Galaxy M13 5G",
+        "description": "Samsung Galaxy M13 5G price in India starts from ₹ 10,989. The lowest price of Samsung Galaxy M13 5G is ₹ 10,989 at Flipkart on 13th April 2023.",
+        "price": 500.00,
+        "thumbnail": "https://i.gadgets360cdn.com/products/large/M13-5g-db-372x800-1657783069.jpg?downsize=*:180"
+    },
+    {
+        "id": 6,
+        "title": "Vivo Y100",
+        "description": "Vivo Y100 mobile was launched on 16th February 2023. The phone comes with a 90 Hz refresh rate 6.38-inch touchscreen display offering a resolution of 2400x1080 pixels (FHD+).",
+        "price": 400.00,
+        "thumbnail": "https://i.gadgets360cdn.com/products/large/Vivo-Y100-DB-374x800-1676538869.jpg?downsize=*:180"
+    }
+]

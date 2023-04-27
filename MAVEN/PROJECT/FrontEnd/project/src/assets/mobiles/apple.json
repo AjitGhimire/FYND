@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "iPhone 14 Plus",
+        "description": "Apple's annual iPhone reveal event is supposed to be one of the biggest moments in tech each year. At this year's show – the company's first in-person product launch since the beginning of the pandemic",
+        "price": 900.00,
+        "thumbnail": "https://i.gadgets360cdn.com/products/large/iphone-14-plus-db-396x800-1662581536.jpg?downsize=*:180"
+    },
+    {
+        "id": 2,
+        "title": "iPhone 14",
+        "description": "Apple is hosting the Worldwide Developers Conference (WWDC) 2023 in June. The event may see the launch of new software versions like iOS 17 and iPadOS 17.",
+        "price": 800.00,
+        "thumbnail": "https://i.gadgets360cdn.com/products/large/iphone-14-db-400x800-1662580923.jpg?downsize=*:180"
+    },
+    {
+        "id": 3,
+        "title": "iPhone 13",
+        "description": "We expect big improvements with each new generation of phones from various manufacturers. ",
+        "price": 700.00,
+        "thumbnail": "https://i.gadgets360cdn.com/products/large/iphone-13-1-396x800-1631648728.jpg?downsize=*:180"
+    },
+    {
+        "id": 4,
+        "title": "iPhone 13 Pro",
+        "description": "It's late in the year 2021 and Apple has only just decided that iPhone users should be able to have a high-refresh-rate screen and take macro photos",
+        "price": 600.00,
+        "thumbnail": "https://i.gadgets360cdn.com/products/large/iphone-13-pro-400x800-1631648140.jpg?downsize=*:180"
+    },
+    {
+        "id": 5,
+        "title": "iPhone 12",
+        "description": "Of the four members of the new iPhone 12 family, the base iPhone 12 might be easy to overlook. ",
+        "price": 500.00,
+        "thumbnail": "https://i.gadgets360cdn.com/products/large/iphone-12-all-404x800-1602616616.jpg?downsize=*:180"
+    },
+    {
+        "id": 6,
+        "title": "iPhone 11 Pro",
+        "description": "iPhone 11 Pro mobile was launched on 10th September 2019. The phone comes with a 5.80-inch touchscreen display offering a resolution of 1125x2436 pixels at a pixel density of 458 pixels per inch (ppi).",
+        "price": 400.00,
+        "thumbnail": "https://i.gadgets360cdn.com/products/large/iphone-11-pro-402x800-1568197583.jpg?downsize=*:180"
+    }
+    ]

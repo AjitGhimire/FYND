@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "Nokia X30 5G",
+        "description": "Nokia X30 5G mobile was launched on 1st September 2022. The phone comes with a 90 Hz refresh rate 6.43-inch touchscreen display offering a resolution of 1800x2400 pixels (FHD+).",
+        "price": 2200.00,
+        "thumbnail": "https://i.gadgets360cdn.com/products/large/nokia-x30-5g-db-374x800-1662044719.jpg?downsize=*:180"
+    },
+    {
+        "id": 2,
+        "title": "Nokia C21 Plus",
+        "description": "Nokia C21 Plus mobile was launched on 27th February 2022. The phone comes with a 6.52-inch touchscreen display offering a resolution of 720x1600 pixels",
+        "price": 2000.00,
+        "thumbnail": "https://i.gadgets360cdn.com/products/large/nokia-c21-plus-295x800-1645957463.jpg?downsize=*:180"
+    },
+    {
+        "id": 3,
+        "title": "Nokia C30",
+        "description": "Nokia C30 mobile was launched on 27th July 2021. The phone comes with a 6.82-inch touchscreen display offering a resolution of 1080x2400 pixels and an aspect ratio of 20.5:9.",
+        "price": 1800.00,
+        "thumbnail": "https://i.gadgets360cdn.com/products/large/nokia-c30-358x800-1627366096.jpg?downsize=*:180"
+    },
+    {
+        "id": 4,
+        "title": "Nokia G20",
+        "description": "The Nokia G20 has a subtle yet practical design, claims to offer a 3-day battery life, and runs on Android 11 ",
+        "price": 1600.00,
+        "thumbnail": "https://i.gadgets360cdn.com/products/large/nokia-g20-376x800-1617892058.jpg?downsize=*:180"
+    },
+    {
+        "id": 5,
+        "title": "Nokia XR20",
+        "description": "It's not every day that I come across a smartphone that can do something extraordinary.",
+        "price":  1200.00,
+        "thumbnail": "https://i.gadgets360cdn.com/products/large/nokia-xr20-382x800-1627365198.jpg?downsize=*:180"
+    },
+    {
+        "id": 6,
+        "title": "Nokia 3.4",
+        "description": "HMD Global recently launched two smartphones in India, the Nokia 3.4 and the Nokia 5.4.",
+        "price": 1000.00,
+        "thumbnail": "https://i.gadgets360cdn.com/products/large/nokia-3-4-370x800-1600790604.jpg?downsize=*:180"
+    }
+    ]

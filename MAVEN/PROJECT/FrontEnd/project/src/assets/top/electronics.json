@@ -1,0 +1,45 @@
+[
+    {
+        "id":1,
+        "name":"Lenovo",
+        "price": 900.00,
+        "description":"Electronic",
+        "image": "https://m.media-amazon.com/images/I/61Dw5Z8LzJL._SL1000_.jpg"
+    },
+    {
+        "id":2,
+        "name": "1200 W Electric Heater at Rs 800 in Delhi | ID: 18602428055",
+        "price": 800.00,
+        "description":"Electronic",
+        "image": "https://5.imimg.com/data5/MY/XG/MY-51097590/electric-heater-500x500.jpg"
+    },
+    {
+        "id":3,
+        "name": "iBELL FL8359 Rechargeable Torch Flashlight",
+        "price": 600.00,
+        "description":"Electronic",
+        "image": "https://www.jiomart.com/images/product/original/rvqqbkjbcy/ibell-fl8359-rechargeable-torch-flashlight-long-distance-beam-range-aircraft-aluminium-body-with-ultra-bright-led-light-black-product-images-orvqqbkjbcy-p593928885-0-202209220246.jpg"
+    },    
+    {
+        "id":4,
+        "name": "Samsung Single Door Refrigerator",
+        "price": 500.00,
+        "description":"Electronic",
+        "image": "https://5.imimg.com/data5/QZ/KH/YQ/SELLER-8147187/whatsapp-image-2019-09-02-at-1-36-03-pm-500x500.jpeg"
+    },
+    {
+        "id":5,
+        "name": "Konka U5-series 4K smart TV review: The (street) price is about right | TechHive",
+        "price": 1000.00,
+        "description":"Electronic",
+        "image": "https://images.idgesg.net/images/article/2020/12/konka-u5-series-angle-left-in-screen-100870800-large.jpg?auto=webp&quality=85,70"
+    },
+    {
+        "id":6,
+        "name": "Plastic Cool White, Warm White Rechargeable LED Torch Light",
+        "price": 200.00,
+        "description":"Electronic",
+        "image": "https://5.imimg.com/data5/XG/BN/MY-44436734/rechargeable-led-torch-light-500x500.jpg"
+    }
+]
+

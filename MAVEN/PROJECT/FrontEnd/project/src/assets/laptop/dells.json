@@ -1,0 +1,51 @@
+[
+
+    {
+
+       "id":1,
+       "name":"Dell XPS 13 9315",
+       "description":"Dell Laptop",
+       "price":900.00,
+       "image":"https://i.gadgets360cdn.com/products/large/dell-xps-13-9315-db-1194x800-1660647018.jpg?downsize=*:180"
+    },
+    {
+
+        "id":2,
+        "name":"Dell G15 (5520)",
+        "description":"Dell Laptop",
+        "price":800.00,
+        "image":"https://i.gadgets360cdn.com/products/large/dell-g15-2250-db-1140x800-1652700964.jpg?downsize=*:180"
+     },
+     {
+
+        "id":3,
+        "name":"Dell Inspiron 15 3511 (2021)",
+        "description":"Dell Laptop",
+        "price":1000.00,
+        "image":"https://i.gadgets360cdn.com/products/large/dell-Inspiron-15-3511-2021-DB-1126x629-1635844401.jpg?downsize=*:180"
+     },
+     {
+
+        "id":4,
+        "name":"Dell Vostro 3500",
+        "description":"Dell Laptop",
+        "price":1100.00,
+        "image":"https://i.gadgets360cdn.com/products/large/dell-vostro-3500-DB-1066x700-1635843788.jpg?downsize=*:180"
+     },
+     {
+
+        "id":5,
+        "name":"Dell Latitude 9520",
+        "description":"Dell Laptop",
+        "price":12000.00,
+        "image":"https://i.gadgets360cdn.com/products/large/dell-latitude-9520-1200x800-1622104190.jpg?downsize=*:180"
+     },
+     {
+
+        "id":6,
+        "name":"Dell XPS 15 9500",
+        "description":"Dell Laptop",
+        "price":2500.00,
+        "image":"https://i.gadgets360cdn.com/products/large/dell-xps-15-9500-1440x800-1589436423.jpg?downsize=*:180"
+     }
+]
